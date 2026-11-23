@@ -1,11 +1,17 @@
 # Mainseat
 
-[![CI](https://github.com/musahyderr/mainseat/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/musahyderr/mainseat/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/musahyderr/mainseat)](https://github.com/musahyderr/mainseat/releases/latest)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Tested on Linux, Windows, macOS](https://img.shields.io/badge/tested%20on-Linux%20%7C%20Windows%20%7C%20macOS-informational)](.github/workflows/ci.yml)
-[![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](.github/workflows/ci.yml)
-[![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-D97757)](INSTALL.md)
+<p align="center">
+  <a href="https://github.com/musahyderr/mainseat/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/musahyderr/mainseat/ci.yml?branch=main&label=CI&logo=githubactions&logoColor=white&style=flat-square&labelColor=000000" /></a>
+  <a href="https://github.com/musahyderr/mainseat/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/musahyderr/mainseat?label=release&logo=github&logoColor=white&style=flat-square&labelColor=000000" /></a>
+  <a href="https://github.com/musahyderr/mainseat/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/musahyderr/mainseat?label=stars&logo=github&logoColor=white&style=flat-square&labelColor=000000&color=e3b341" /></a>
+  <a href="https://github.com/musahyderr/mainseat/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/musahyderr/mainseat/main?label=last%20commit&logo=git&logoColor=white&style=flat-square&labelColor=000000" /></a>
+</p>
+<p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/musahyderr/mainseat?label=license&logo=opensourceinitiative&logoColor=white&style=flat-square&labelColor=000000&color=2ea44f" /></a>
+  <a href=".github/workflows/ci.yml"><img alt="Tested on Linux, Windows and macOS" src="https://img.shields.io/badge/tested%20on-Linux%20%7C%20Windows%20%7C%20macOS-1f6feb?style=flat-square&logo=githubactions&logoColor=white&labelColor=000000" /></a>
+  <a href=".github/workflows/ci.yml"><img alt="Python 3.12" src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=000000" /></a>
+  <a href="INSTALL.md"><img alt="Claude Code plugin" src="https://img.shields.io/badge/Claude%20Code-plugin-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=000000" /></a>
+</p>
 
 **Install in one line:** in Claude Code, type `/plugin install mainseat --marketplace musahyderr/mainseat`,
 or share this repository's link with your Claude and ask it to install it ([INSTALL.md](INSTALL.md)).
