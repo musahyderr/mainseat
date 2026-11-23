@@ -1,5 +1,12 @@
 # Mainseat
 
+[![CI](https://github.com/musahyderr/mainseat/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/musahyderr/mainseat/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/musahyderr/mainseat)](https://github.com/musahyderr/mainseat/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Tested on Linux, Windows, macOS](https://img.shields.io/badge/tested%20on-Linux%20%7C%20Windows%20%7C%20macOS-informational)](.github/workflows/ci.yml)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](.github/workflows/ci.yml)
+[![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-D97757)](INSTALL.md)
+
 **Install in one line:** in Claude Code, type `/plugin install mainseat --marketplace musahyderr/mainseat`,
 or share this repository's link with your Claude and ask it to install it ([INSTALL.md](INSTALL.md)).
 
